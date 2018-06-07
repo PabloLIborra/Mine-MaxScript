@@ -1,4 +1,4 @@
 # Mine-MaxScript
 
-Proyecto de la asignatura Modelado y Animacion por Computador, 3º Ingenieria Multimedia 2016-2017
+Proyecto de la asignatura Modelado y Animacion por Computador, 2º Ingenieria Multimedia 2015-2016
 
