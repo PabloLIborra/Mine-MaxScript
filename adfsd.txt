@@ -1,0 +1,10 @@
+createSurface posX posY width lengt
+createBox posX posY posZ width lengt height offsetX offsetY offsetZ Tipomaterial
+createFill posX posY posZ width lengt height
+createLayer posX posY posZ width lengt layerZ
+createTerrain posX posY posZ width lengt height
+createHouse posX posY posZ tamX tamY tamZ
+createPyramid type posX posY posZ tamX tamY
+createMountain posX posY posZ width lengt 
+createTree posX posY posZ tamX tamY tamZ
+createPagoda posX posY posZ tamX tamY numPlanta
